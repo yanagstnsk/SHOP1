@@ -23,7 +23,7 @@ body {
     width: 200px;
     height: auto; 
 } */
-/* CSS стилі для колонок */
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -35,7 +35,7 @@ body {
     box-sizing: border-box;
 }
 
-/* Очищення маргінів для img */
+
 .column img {
     width: 250px;
     height: 350px;
@@ -44,7 +44,7 @@ body {
     border-radius: 5px;
 }
 
-/* Додаткові стилі для відображення тексту */
+
 .product-text {
     text-align: center;
 }
